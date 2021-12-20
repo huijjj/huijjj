@@ -13,7 +13,7 @@ You can reach me through
  
  ## Tech Stack
  <div>
-  <img height=65px src="https://w.namu.la/s/3710a13b7b71d39dd3c7749d3927a6b7413d6439098e8ec19c2f804f63bb5888d2f03beb06ae222e3707356acb3ca75107b7a29672c33f2ffe1b905b86fe40e5b08f2860d5ff45d29bf95e1cbea6c3755e282b787cde59f774b81655b4470aea">
+  <img height=65px src="https://w.namu.la/s/3710a13b7b71d39dd3c7749d3927a6b7413d6439098e8ec19c2f804f63bb5888d2f03beb06ae222e3707356acb3ca75107b7a29672c33f2ffe1b905b86fe40e5b08f2860d5ff45d29bf95e1cbea6c375a092a21b04fc7e82eef08bafdcc39e73">
   <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
   <img height=65px src="https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.5.1/1636349832084/Microsoft.VisualStudio.Services.Icons.Default">
   <img height=65px src="http://wiki.hash.kr/images/2/2b/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%A1%9C%EA%B3%A0.png">  
