@@ -1,13 +1,13 @@
 HUIJONG JEONG
 ===
 
-I am student in POSTECH majoring in computer science and engineering.
+Undergraduate student in POSTECH majoring in computer science and engineering.
 
-Currently preparing to enlist in Skilled Industrial Personnel(산업기능요원) to serve my military service.
+Currently working at <a href="https://squeezebits.com/">SqueezeBits</a> off from school.
 
 You can reach me through
-<a href="mailto:hui0213@postech.ac.kr" alt="email"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="20" width="20"></a>
- <a href="https://www.instagram.com/lnuijong" alt="instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="20" width="20"></a>
+<a href="mailto:huijong.jeong@squeezebits.com" alt="email">huijong.jeong@squeezebits.com</a>
+<a href="https://www.instagram.com/lnuijong" alt="instagram">instagram</a>
  
  ***
  
