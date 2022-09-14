@@ -6,8 +6,8 @@ Undergraduate student in POSTECH majoring in computer science and engineering.
 Currently working at <a href="https://squeezebits.com/">SqueezeBits</a> off from school.
 
 You can reach me through
-<a href="mailto:huijong.jeong@squeezebits.com" alt="email">huijong.jeong@squeezebits.com</a>
-<a href="https://www.instagram.com/lnuijong" alt="instagram">instagram</a>
+<div><a href="mailto:huijong.jeong@squeezebits.com" alt="email">huijong.jeong@squeezebits.com</a></div>
+<div><a href="https://www.instagram.com/lnuijong" alt="instagram">instagram</a></div>
  
  ***
  
