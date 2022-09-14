@@ -3,7 +3,7 @@ HUIJONG JEONG
 
 Undergraduate student in POSTECH majoring in computer science and engineering.
 
-Currently working at <a href="https://squeezebits.com/">SqueezeBits</a> off from school.
+Currently working at <a href="https://squeezebits.com/">SqueezeBits</a> as ML engineer.
 
 You can reach me through
 <div><a href="mailto:huijong.jeong@squeezebits.com" alt="email">huijong.jeong@squeezebits.com</a></div>
