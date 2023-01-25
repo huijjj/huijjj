@@ -8,6 +8,7 @@ Currently working at <a href="https://squeezebits.com/">SqueezeBits</a> as ML en
 You can reach me through
 <div><a href="mailto:huijong.jeong@squeezebits.com" alt="email">huijong.jeong@squeezebits.com</a></div>
 <div><a href="https://www.instagram.com/lnuijong" alt="instagram">instagram</a></div>
+<div><a href="https://hyojadong-bulhyoja.tistory.com/" alt="blog">blog</a></div>
  
  ***
  
@@ -34,7 +35,7 @@ You can reach me through
  - Chinese (dreadful)
 
 ## Interests
- - League of Legend, (league-KR, ID: 유명하다)
+ - League of Legend, (league-KR, IDs: 강선대, 유명하다)
  - Stock investment
  - Drinks
 
