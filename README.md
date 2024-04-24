@@ -13,21 +13,13 @@ You can reach me through
  ***
  
  ## Tech Stack
- <div>
-  <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"> 
-  <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
-  <img height=65px src="https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.5.1/1636349832084/Microsoft.VisualStudio.Services.Icons.Default">
-  <img height=65px src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"> 
-  <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-  <img height=65px src="http://wiki.hash.kr/images/c/c0/CSS_%EB%A1%9C%EA%B3%A0.png"> 
-  <img height=65px src="http://wiki.hash.kr/images/3/3f/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EB%A1%9C%EA%B3%A0.png">  
-  <img height=65px src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png"> 
- </div>
- <div>
-  <img height=65px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg">
-  <img height=65px src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
-  <img height=65px src="https://webimages.mongodb.com/_com_assets/cms/kusb9stg1ndrp7j53-MongoDBLogoBrand1.png?auto=format%252Ccompress">
- </div>
+ Programming languages
+ <ul>
+  <li>C / Cpp</li>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>verilog</li>
+ </ul>
  
  ## Languages
  - Korean (native)
@@ -35,7 +27,5 @@ You can reach me through
  - Chinese (dreadful)
 
 ## Interests
- - League of Legend, (league-KR, IDs: 강선대, 유명하다)
- - Stock investment
+ - League of Legend, (league-KR, 유명하다#KR1)
  - Drinks
-
