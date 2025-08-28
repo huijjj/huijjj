@@ -1,9 +1,8 @@
 HUIJONG JEONG
 ===
 
-Undergraduate student in POSTECH majoring in computer science and engineering.
-
-Currently working at <a href="https://squeezebits.com/">SqueezeBits</a> as ML engineer.
+(2019 ~) Undergraduate student in POSTECH majoring in computer science and engineering. 
+(2022 ~) Currently working at <a href="https://squeezebits.com/">SqueezeBits</a> as ML engineer.
 
 You can reach me through
 <div><a href="mailto:huijong.jeong@squeezebits.com" alt="email">huijong.jeong@squeezebits.com</a></div>
@@ -17,6 +16,7 @@ You can reach me through
  <ul>
   <li>C / Cpp</li>
   <li>Python</li>
+  <li>triton</li>
   <li>JavaScript</li>
   <li>verilog</li>
  </ul>
@@ -24,6 +24,7 @@ You can reach me through
  ## Languages
  - Korean (native)
  - English (fluent)
+ - Japanese (dreadful)
  - Chinese (dreadful)
 
 ## Interests
